@@ -3,4 +3,4 @@
 * Nome: **Alef Luciano Silva**
 * Usúario: **[AlefLuciano](https://github.com/AlefLuciano)**
 * E-mail: **<alef.silva.123@ufrn.edu.br>**
-* Respostas: **[Tarefa01](https://github.com/AlefLuciano/BD-II/tree/main/Tarefa01Quest%C3%B5es)** 
+* Respostas: **[Tarefa01](https://github.com/AlefLuciano/BD-II/blob/main/tarefa01.md)** 
